@@ -1,4 +1,4 @@
-replicaCount: 2
+replicaCount: 7
 ui:
   message: "Uitgerold door Argo CD"
   color: "#1c6966"
